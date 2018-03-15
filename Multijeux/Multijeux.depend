@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521105687 source:c:\users\andrei\desktop\b2\c++\radoceaandrei\ynov-b2-cpp-playground\multijeux\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<windows.h>
+

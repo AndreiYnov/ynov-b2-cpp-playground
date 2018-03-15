@@ -1,0 +1,5 @@
+N'ayant aucune connaissance en c++ avant de commencer a coder un programme j'ai essayé de comprendre
+le cours et j'ai egalèment réalisé plusieurs exercices nottament sur le site :
+https://fr.wikibooks.org/wiki/Exercices_en_langage_C%2B%2B
+mais égalèment sur le site :
+https://www.hackerrank.com/domains/cpp/cpp-introduction
